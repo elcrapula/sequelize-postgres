@@ -1,0 +1,1 @@
+INSERT INTO public.apellidos (id, apellidos, cedula) VALUES (1, 'restrepo', 123);
