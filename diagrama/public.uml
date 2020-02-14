@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>DATABASE</ID>
+  <OriginalElement>04a83a4d-6a41-40d0-977a-9fa74db50cfc.SCHEMA:postgres.public</OriginalElement>
+  <nodes>
+    <node x="21.5" y="0.0">04a83a4d-6a41-40d0-977a-9fa74db50cfc.TABLE:postgres.public.nombres</node>
+    <node x="19.5" y="167.0">04a83a4d-6a41-40d0-977a-9fa74db50cfc.TABLE:postgres.public.apellidos</node>
+    <node x="207.0" y="0.0">04a83a4d-6a41-40d0-977a-9fa74db50cfc.TABLE:postgres.public.mytables</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="04a83a4d-6a41-40d0-977a-9fa74db50cfc.TABLE:postgres.public.apellidos" target="04a83a4d-6a41-40d0-977a-9fa74db50cfc.TABLE:postgres.public.nombres">
+      <point x="0.0" y="-58.5" />
+      <point x="0.0" y="58.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="176.0" y="142.0" />
+  <SelectedNodes>
+    <node>04a83a4d-6a41-40d0-977a-9fa74db50cfc.TABLE:postgres.public.apellidos</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Key columns</Category>
+    <Category>Columns</Category>
+    <Category>Virtual foreign keys</Category>
+  </Categories>
+</Diagram>
+
